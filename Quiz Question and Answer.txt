@@ -1,0 +1,31 @@
+// Questions
+
+1. Which COVID variant was first detected in South Africa on 24 November 2021 and spread very fast at the beginning of 2022? 
+
+2. On January 10th a heart transplant from an animal to a human patient was done for the first time. Which animal was it?
+
+3. Who was re-elected as President of Italy in January? Sergio 
+
+4. Which two payment processors suspended their operations in Russia on March 5th? Visa and Mastercard
+
+// Answers
+
+1.  Omicron
+    Fever
+    Cough
+    Tiredness
+
+2.  A Lion
+    A Hen
+    A Pig
+    Dog
+
+3.  Ciampi
+    Grasso
+    Napolitano
+    Mattarella
+
+4.  Paypal
+    Visa and Mastercard
+    Visa
+    Mastercard
